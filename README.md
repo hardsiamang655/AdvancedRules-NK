@@ -6,7 +6,7 @@
 
 ---
 
-   Download the AdvancedRules plugin for Nukkit.
+   Download the AdvancedRules plugin for Nukkit.<br />
      very soon!
 
 ---
