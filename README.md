@@ -6,7 +6,6 @@
 
 ---
 
-   Download the AdvancedRules plugin for Nukkit.<br />
-     very soon!
+   [Go to the official Nukkit page.](https://cloudburstmc.org/resources/advancedrules.751/)
 
 ---
