@@ -1,1 +1,5 @@
-
+name: AdvancedRules
+main: com.HardKing.AdvancedRules.Main
+author: HardKing
+api: [1.0.0]
+version: 1.0.0
