@@ -1,1 +1,13 @@
+#AdvancedRules v0.1
+#By HardKing & Qreardedsbck
 
+# use § for colors and {line} for a new line
+
+#Rules
+content: "§8» §rAdvancedRules by HardSiamang655 & qreardedsbck.{line}§8» §rEdit the §6config.yml §rFile and restart server."
+
+#Confirming Message
+message: "[§2ServerName§f]§8»§aYou accepted the rules, have fun!"
+
+#Menu Title
+title: "AdvancedRules"
