@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: {Error/Bug} Enter Title
-labels: bug,check
-assignees: hardsiamang655, qreardedwastaken
+title: '{Error/Bug} Enter Title'
+labels: 'bug,check'
+assignees: 'hardsiamang655, qreardedwastaken'
 
 ---
 
